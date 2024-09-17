@@ -30,7 +30,7 @@ Clone the repository:
 
 bash
 Copy code
-git clone https://github.com/yourusername/diabetes-prediction.git
+git clone https://github.com/prathameshatkare/diabestese-prediction.git
 cd diabetes-prediction
 Install dependencies:
 
